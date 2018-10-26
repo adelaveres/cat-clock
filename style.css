@@ -1,0 +1,39 @@
+body{
+  background-color: #f16059;
+}
+.content{
+  margin: 6% 35%;
+  /* background-color: lavender; */
+  text-align: center;
+}
+.title{
+  font-size: 50px;
+  font-family: 'Bungee Shade', cursive;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+#time{
+  font-size: 40px;
+  font-family: inherit;
+  font-weight: 700;
+}
+img{
+  margin: 20px 0;
+  width: auto;
+}
+.setting_time{
+  margin: 30px 0;
+}
+.time_box{
+  display: block;
+}
+.button{
+  background-color: black;
+  color: white;
+  padding: 10px 30px ;
+  border: black;
+  border-radius: 8%;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
